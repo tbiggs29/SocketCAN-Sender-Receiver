@@ -18,3 +18,8 @@ Screenshot 4 (Zoomed)
 
 Screenshot 5 (Zoomed)
 ![Alt text](https://github.com/tbiggs29/SocketCAN-Sender-Receiver/blob/main/Screenshots/TCPSocketCANPlot5.png)
+
+## UDP Socket Plot
+
+Screenshot 1
+![Alt text](https://github.com/tbiggs29/SocketCAN-Sender-Receiver/blob/main/Screenshots/UDPSocketCANPlot.png)
